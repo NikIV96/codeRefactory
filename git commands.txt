@@ -7,4 +7,4 @@ git add.
 new change
 new comments
 test one
-new line
+i am adding something new
