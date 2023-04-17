@@ -7,3 +7,4 @@ git add.
 new change
 new comments
 test one
+new line
