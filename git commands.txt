@@ -1,0 +1,9 @@
+git config --global user.name "nikIV96"
+git config --global user.email nikolaivladkov96@yahoo.com
+git config --list
+
+git add.
+
+new change
+new comments
+test one
